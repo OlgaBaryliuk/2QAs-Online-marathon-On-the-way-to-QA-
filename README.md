@@ -1,1 +1,1 @@
-# 2QAs-Online-marathon-On-the-way-to-QA-
+# 2QAs-Online-marathon-On-the-way-to-QA
